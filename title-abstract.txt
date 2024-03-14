@@ -1,5 +1,5 @@
 Title:
-<MY SUPER AWESOME PROJECT TITLE>
+Application of Machine Learning for Creditworthiness in the Financial Industry
 
 Abstract:
-<MY SUPER AWESOME PROJECT ABSTRACT>
+In the complex landscape of financial services, creditworthiness is vital for managing financial risks, ensuring economic stability, and making reasonable lending decisions. The FICO score, the standard measure of creditworthiness, is updated depending on the creditor’s reporting schedule, typically ranging from one month to forty-five days. As a result, the FICO score fails to capture the rapid changes in an individual’s financial behavior or the emergence of new financial risks. Our technique aims to refine this process thereby significantly enhancing the efficiency and accuracy of creditworthiness assessment. We aim to accurately predict consumers' risk of defaulting by utilizing the best ML model and creating relevant income, balance, and category spend features for the final credit scoring calculation. 
